@@ -1,1 +1,1 @@
-#Some Ruby Code Snippets
+#Some Ruby and Rails Code Snippets
