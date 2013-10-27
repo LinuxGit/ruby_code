@@ -5,10 +5,10 @@ if birth_year > 2013
   puts "Are you kidding?"
   exit
 elsif birth_year <= 0
-  puts "The year of your birth can't smaller than 0 or equal 0"
+  puts "The year of your birth can't be smaller than 0 or equal 0"
   exit
 else
-  puts "You born in #{birth_year}"
+  puts "You were born in #{birth_year}"
 end
 
 generation = case  birth_year
