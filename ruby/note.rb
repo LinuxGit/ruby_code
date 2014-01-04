@@ -9,4 +9,8 @@ a = [ 1, 2, 3 ]
 a[1, 0] = 5
 #=> [ 1, 5, 2 ,3]
 
-
+#3 array FIFO
+a = Array.new
+a.push "red"
+a.push "blue"
+a.shift
