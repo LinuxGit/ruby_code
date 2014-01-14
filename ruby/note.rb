@@ -14,3 +14,8 @@ a = Array.new
 a.push "red"
 a.push "blue"
 a.shift
+
+#4 inject
+a = [1, 3, 5, 7]
+a.inject(:+)
+a.inject(:*)
