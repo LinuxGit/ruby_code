@@ -19,3 +19,7 @@ a.shift
 a = [1, 3, 5, 7]
 a.inject(:+)
 a.inject(:*)
+
+#5 range interval
+('a'..'m') === 'g'
+(1..9) === 3.14
