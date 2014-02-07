@@ -77,4 +77,6 @@ date = "12/25/2014"
 %r{(\d+)(?:/|:)(\d+)(?:/|:)(\d+)} =~ date
 $1 $2 $3
 
- /(.)(.)\k<-1>\k<-2>/.match('aabba')
+/(.)(.)\k<-1>\k<-2>/.match('aabba')
+
+/(?<linux>centos|redhat|ubuntu) \w+ \g<linux> \w+/.match("love redhat shell ubuntu shell")
