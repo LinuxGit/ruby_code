@@ -34,6 +34,22 @@ $&
 $`
 $'
 
+#regexp match
+r*
+r+
+r?
+r{m,n}
+r{m,}
+r{,n}
+r{m}
+Matches zero or more occurrences of r
+Matches one or more occurrences of r
+Matches zero or one occurrence of r
+Matches at least m and at most n occurrences of r
+Matches at least m occurrences of r
+Matches at most n occurrences of r
+Matches exactly m occurrences of r
+
 str = "I love ruby."
 str.gsub(/[a-z&&[^aeiou]]/, '*')
 str.match(/[[:^alpha:]]/)
