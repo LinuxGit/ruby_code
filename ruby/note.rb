@@ -50,6 +50,8 @@ Matches at least m occurrences of r
 Matches at most n occurrences of r
 Matches exactly m occurrences of r
 
+“.” matches any character except a newline
+
 str = "I love ruby."
 str.gsub(/[a-z&&[^aeiou]]/, '*')
 str.match(/[[:^alpha:]]/)
