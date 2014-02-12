@@ -1,1 +1,5 @@
-#Some Ruby and Rails Code Snippets
+###Code Snippets
+*ruby
+*rails
+*shel
+*conf
