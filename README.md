@@ -1,5 +1,5 @@
 ###Code Snippets
 * ruby
 * rails
-* shel
+* shell
 * conf
