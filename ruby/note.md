@@ -11,3 +11,8 @@ first, *, last = 1, 2, 3, 4, 5
 ```ruby
 year, month, day = $1, $2, $3 if date =~ /(\d\d\d\d)-(\d\d)-(\d\d)/
 ```
+4.step
+```ruby
+0.step(14, 3) { |x| print x, " " }
+(1..9).step(3) { |x| print x, " " }
+```
