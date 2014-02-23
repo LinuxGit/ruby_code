@@ -16,3 +16,10 @@ year, month, day = $1, $2, $3 if date =~ /(\d\d\d\d)-(\d\d)-(\d\d)/
 0.step(14, 3) { |x| print x, " " }
 (1..9).step(3) { |x| print x, " " }
 ```
+5.Integer#to_s(base) and String.to_i(base)
+```ruby
+255.to_s(2)  #=> "11111111"
+"11111111".to_i(2)  #=> 255
+```
+
+
