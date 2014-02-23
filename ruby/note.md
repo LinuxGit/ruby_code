@@ -22,4 +22,11 @@ year, month, day = $1, $2, $3 if date =~ /(\d\d\d\d)-(\d\d)-(\d\d)/
 "11111111".to_i(2)  #=> 255
 ```
 
+6.read file into array or string
+```ruby
+arr = IO.readlines("/etc/passwd")
+arr[0]
 
+str = IO.read("/etc/passwd")
+str[0, 6]
+```
