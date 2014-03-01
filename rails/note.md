@@ -2,3 +2,6 @@
 `bundle show sass`
 
 2.use `git rm --cached <file>...` to unstage
+
+3.`git checkout -f`(use "git checkout -- <file>..." to discard changes in working directory)
+
