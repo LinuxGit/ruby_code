@@ -10,3 +10,6 @@
 ###Code School
 * [Code School](https://www.codeschool.com/)
 
+###Rspec
+* [rspec](http://rspec.info/)
+* [1000 个小时学会 Rails - 003 RSpec 行为驱动测试简介](http://ruby-china.org/topics/2848)
