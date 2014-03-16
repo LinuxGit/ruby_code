@@ -3,6 +3,7 @@
 * [English](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
 * [github](https://github.com/railstutorial/sample_app)
 * [Go...](http://ruby.railstutorial.org/chapters/rails-flavored-ruby#top)
+
 ###Rails Resources
 * [Rails Offical Guide](http://guides.rubyonrails.org/)
 * [railscasts](http://railscasts.com/)
