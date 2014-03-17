@@ -31,7 +31,7 @@ str = IO.read("/etc/passwd")
 str[0, 6]
 ```
 
-7.
+7.Array#join
 ```ruby
 ["a", 5, 1].join('-') #=> "a-5-1"
 ```
