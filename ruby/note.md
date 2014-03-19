@@ -42,3 +42,7 @@ a
 a[1..-1]
 #=> ["b", "c", "d", "e"]
 ```
+9.random string
+```ruby
+('a'..'z').to_a.shuffle[0..7].join
+```
