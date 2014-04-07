@@ -2,7 +2,7 @@
 * [zh_cn](http://railstutorial-china.org/)
 * [English](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
 * [github](https://github.com/railstutorial/sample_app)
-* [Go...](http://ruby.railstutorial.org/chapters/rails-flavored-ruby#top)
+* [Go...](http://ruby.railstutorial.org/chapters/filling-in-the-layout#top)
 
 ###Rails Resources
 * [Rails Offical Guide](http://guides.rubyonrails.org/)
