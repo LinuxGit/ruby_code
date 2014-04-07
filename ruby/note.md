@@ -46,7 +46,8 @@ a[1..-1]
 ```ruby
 ('a'..'z').to_a.shuffle[0..7].join
 ```
-10. hash merge
+
+10.hash merge
 ```ruby
 [1] pry(main)> h1 = { a: 100, b: 200 }
 => {:a=>100, :b=>200}
