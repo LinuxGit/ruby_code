@@ -46,3 +46,15 @@ a[1..-1]
 ```ruby
 ('a'..'z').to_a.shuffle[0..7].join
 ```
+10. hash merge
+```ruby
+[1] pry(main)> h1 = { a: 100, b: 200 }
+=> {:a=>100, :b=>200}
+[2] pry(main)> h2 = { b: 250, c: 300 }
+=> {:b=>250, :c=>300}
+[3] pry(main)> h1.merge(h2)
+=> {:a=>100, :b=>250, :c=>300}
+[4] pry(main)> h1.merge(h2) { |key, oldval, newval| newval - oldval }
+=> {:a=>100, :b=>50, :c=>300}
+```
+
