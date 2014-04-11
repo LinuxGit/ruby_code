@@ -5,7 +5,9 @@
 
 3. `git checkout -f`(use "git checkout -- <file>..." to discard changes in working directory)
 
-4. ```bash
+4.
+
+```bash
 git checkout -b modify-README
 git branch
 git checkout master
