@@ -17,6 +17,7 @@
 
 ####Frontend Knowledge
 * [前端技能汇总](https://github.com/JacksonTian/fks)
+* [前端开发面试题](http://segmentfault.com/a/1190000000465431)
 
 ####CSS
 * [bootstrap](http://getbootstrap.com/)
