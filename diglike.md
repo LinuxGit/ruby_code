@@ -30,3 +30,6 @@
 
 ####JS
 * [Foundational JavaScript Tools](https://github.com/codefellows/jstools)
+
+###Cheat Sheet
+* [Cheat Sheet Summary](http://blog.jobbole.com/64515/)
