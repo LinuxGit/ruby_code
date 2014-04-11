@@ -13,6 +13,7 @@ git checkout master
 git merge modify-README
 git branch -d modify-README
 ```
+
 5. `bundle install --without production`
 
 6. `'LinuxGit'.underscore` #=> "linux_git" 
