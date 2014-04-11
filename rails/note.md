@@ -18,3 +18,7 @@ git branch -d modify-README
 6.`'LinuxGit'.underscore` #=> "linux_git" 
   `'LinuxGit::ruby'.underscore` #=> "linux_git/ruby" 
 
+* link_to comment
+```ruby
+<li><%#= link_to 'Contact', contact_path %></li>
+```
