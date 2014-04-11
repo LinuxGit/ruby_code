@@ -17,5 +17,8 @@
 
 ###CSS
 * [bootstrap](http://getbootstrap.com/)
+* [bootstrap-sass](https://github.com/twbs/bootstrap-sass)
 * [bootstrap 中文](http://www.bootcss.com/)
+* [bootstrap 2.3.2 中文文档](http://v2.bootcss.com/index.html)
 * [web sample](http://expo.bootcss.com/)
+* [sass](http://sass-lang.com/guide)
