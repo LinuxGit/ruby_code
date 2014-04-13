@@ -4,6 +4,10 @@
 
 * update:
 
-`user.update_attribute(:name, "Jackie")`
+    `user.update_attribute(:name, "Jackie")`
 
-`user.update_attributes(name: "Daniel", email: "linux@gmail.com")`
+    `user.update_attributes(name: "Daniel", email: "linux@gmail.com")`
+
+* ensure method
+
+    `user.respond_to?(:name)`
