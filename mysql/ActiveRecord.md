@@ -11,3 +11,9 @@
 * ensure method
 
     `user.respond_to?(:name)`
+
+* validate
+
+    `user.valid?`
+
+    `user.errors.full_messages`
