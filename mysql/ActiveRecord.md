@@ -17,3 +17,26 @@
     `user.valid?`
 
     `user.errors.full_messages`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
