@@ -1,3 +1,8 @@
+###Cool Websites
+* [Dribble](http://dribbble.com/)
+* [Simplebits](http://simplebits.com/)
+
+
 ###Ruby
 * [Ruby China wiki](https://github.com/ruby-china/wiki/wiki)
 
