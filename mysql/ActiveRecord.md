@@ -22,7 +22,9 @@
   `bundle exec rake db:reset`
   `bundle exec rake test:prepare`
 
-
+* new_record?
+  `User.new.new_record?`
+  `User.new.new_record?`
 
 
 
