@@ -1,0 +1,42 @@
+#!/usr/bin/env ruby
+
+require 'optparse'
+
+class String
+  COLORS = {
+    :red    => 31,
+    :green  => 32,
+    :yellow => 33,
+    :blue   => 34
+  }
+  def color(color)
+    "\033[#{COLORS[color]}m#{self}\033[0m"
+  end
+end
+
+options = {}
+OptionParser.new do |opts|
+  opts.banner = 'Usage: hilight -p pattern -c color'
+
+  options[:switch] = false
+
+
+  opts.on('-p pattern', '--pattern pattern', 'match pattern') do |value|
+    options[:pattern] = value
+  end
+
+  opts.on('-c color', '--color color', 'hilight matched line in color,color could be : red | green | yellow | blue') do |value|
+    options[:color] = value
+    c = options[:color]
+  end
+
+end.parse!
+
+c = options[:color]
+
+while line = STDIN.gets
+  pattern = options[:pattern]
+  if /#{pattern}/ =~ line
+    print line.color(c.to_sym)
+  end
+end
