@@ -5,6 +5,7 @@
 
 ###Ruby
 * [Ruby China wiki](https://github.com/ruby-china/wiki/wiki)
+* [rubykoans](http://rubykoans.com/)
 
 ###Rails Tutorial
 * [zh_cn](http://railstutorial-china.org/)
