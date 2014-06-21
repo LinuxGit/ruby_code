@@ -58,4 +58,8 @@ a[1..-1]
 [4] pry(main)> h1.merge(h2) { |key, oldval, newval| newval - oldval }
 => {:a=>100, :b=>50, :c=>300}
 ```
-
+11.
+```ruby
+:__send__ !~ /^(__|instance_eval)/
+=> false
+```
