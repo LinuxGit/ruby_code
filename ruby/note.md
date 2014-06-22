@@ -63,3 +63,9 @@ a[1..-1]
 :__send__ !~ /^(__|instance_eval)/
 => false
 ```
+
+12.
+```ruby
+BasicObject.instance_methods.grep(/^instance_(.*)/) { $1 }
+=> ["eval", "exec"]
+```
