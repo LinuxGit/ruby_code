@@ -30,6 +30,7 @@
 ####Frontend Knowledge
 * [前端技能汇总](https://github.com/JacksonTian/fks)
 * [前端开发面试题](http://segmentfault.com/a/1190000000465431)
+* [程序员应该知道的 13 个设计技巧](http://www.oschina.net/news/53600/design-tips-for-developers)
 
 ####CSS
 * [bootstrap](http://getbootstrap.com/)
