@@ -14,7 +14,7 @@
 * [zh_cn](http://railstutorial-china.org/)
 * [English](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
 * [github](https://github.com/railstutorial/sample_app)
-* [Go...](http://www.railstutorial.org/book/sign_up)
+* [Go...](http://www.railstutorial.org/book/sign_in_out)
 
 ###Rails Resources
 * [Rails Offical Guide](http://guides.rubyonrails.org/)
