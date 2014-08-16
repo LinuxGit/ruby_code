@@ -49,3 +49,6 @@
 ###Cheat Sheet
 * [Cheat Sheet Summary](http://blog.jobbole.com/64515/)
 * [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+###Books
+* [pragprog](http://pragprog.com/)
