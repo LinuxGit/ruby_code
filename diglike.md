@@ -14,7 +14,7 @@
 * [zh_cn](http://railstutorial-china.org/)
 * [English](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
 * [github](https://github.com/railstutorial/sample_app)
-* [Go...](http://www.railstutorial.org/book/updating_and_deleting_users)
+* [Go...](http://www.railstutorial.org/book/user_microposts)
 
 ###Rails Resources
 * [Rails Offical Guide](http://guides.rubyonrails.org/)
