@@ -40,6 +40,8 @@
 * [bootstrap 2.3.2 中文文档](http://v2.bootcss.com/index.html)
 * [web sample](http://expo.bootcss.com/)
 * [sass](http://sass-lang.com/guide)
+* [SASS用法指南](http://www.ruanyifeng.com/blog/2012/06/sass.html)
+* [Compass用法指南](http://www.ruanyifeng.com/blog/2012/11/compass.html)
 * [wrapbootstrap](https://wrapbootstrap.com/themes)
 * [bootstrapzero](http://www.bootstrapzero.com/)
 
