@@ -35,6 +35,10 @@ str[0, 6]
 ```ruby
 ["a", 5, 1].join('-') #=> "a-5-1"
 ```
+```ruby
+"ruby china".split(' ').map(&:capitalize).join(' ')
+```
+
 8.Array trick
 ```ruby
 a
