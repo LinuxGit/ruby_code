@@ -73,3 +73,8 @@ a[1..-1]
 BasicObject.instance_methods.grep(/^instance_(.*)/) { $1 }
 => ["eval", "exec"]
 ```
+
+13.
+```ruby
+a, (b1, b2), c = [1, [2, 3], 4]
+```
