@@ -79,12 +79,23 @@ BasicObject.instance_methods.grep(/^instance_(.*)/) { $1 }
 a, (b1, b2), c = [1, [2, 3], 4]
 ```
 
-14. case use ===
+14.
+case use ===
 ```ruby
 /ab/ === "cabc"
 => true
 (1..5) === 3 
 => true
 String === "foo"
+=> true
+```
+
+15.
+```ruby
+"ruby".instance_of?(String)
+=> true
+"ruby".instance_of?(Object)
+=> false
+"ruby".is_a?(Object)
 => true
 ```
