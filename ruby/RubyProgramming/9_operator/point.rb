@@ -56,8 +56,7 @@ class Point
   end
 end
 
-class P < Point
-end
+P = Class.new(Point)
 
 p0 = P.new(3, 6)
 p1 = P.new(1, 3)
