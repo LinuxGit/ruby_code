@@ -99,3 +99,11 @@ String === "foo"
 "ruby".is_a?(Object)
 => true
 ```
+
+16.
+```ruby
+3.between?(1, 5)
+=> true
+3.between?(3, 5)
+=> true
+```
