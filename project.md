@@ -4,5 +4,5 @@
 * Bootstrap
 * CoffeeScript
 * jQuery
-* Postgres SQL、MongoDB
+* Postgres SQL MongoDB Redis
 * Android, IOS
