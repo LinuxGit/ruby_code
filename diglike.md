@@ -14,11 +14,11 @@
 * [zh_cn](http://railstutorial-china.org/)
 * [English](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
 * [github](https://github.com/railstutorial/sample_app)
-* [Go...](http://www.railstutorial.org/book/user_microposts)
 
 ###Rails Resources
 * [Rails Offical Guide](http://guides.rubyonrails.org/)
 * [railscasts](http://railscasts.com/)
+* [Rails Best Practices](http://rails-bestpractices.com/)
 
 ###Code School
 * [Code School](https://www.codeschool.com/)
