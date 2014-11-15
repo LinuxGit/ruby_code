@@ -19,6 +19,8 @@
 * [Rails Offical Guide](http://guides.rubyonrails.org/)
 * [railscasts](http://railscasts.com/)
 * [Rails Best Practices](http://rails-bestpractices.com/)
+* [Ruby on rails 实战圣经](http://ihower.tw/rails4/)
+
 
 ###Code School
 * [Code School](https://www.codeschool.com/)
@@ -47,6 +49,10 @@
 
 ####JS
 * [Foundational JavaScript Tools](https://github.com/codefellows/jstools)
+
+####Coffeescript
+* [CoffeeScript Cookbook EN](http://coffeescriptcookbook.com/)
+* [CoffeeScript Cookbook CN](http://island205.github.io/coffeescript-cookbook.github.com/)
 
 ###Cheat Sheet
 * [Cheat Sheet Summary](http://blog.jobbole.com/64515/)
