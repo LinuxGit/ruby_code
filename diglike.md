@@ -4,11 +4,13 @@
 
 
 ###Ruby
+* [Tealeaf Open Book Shelf](http://www.gotealeaf.com/books/)
 * [Ruby glossary](http://www.codecademy.com/zh/glossary/ruby)
 * [Ruby China wiki](https://github.com/ruby-china/wiki/wiki)
 * [rubykoans](http://rubykoans.com/)
 * [codewars](http://www.codewars.com/)
 * [rubular](http://www.rubular.com/)
+
 
 ###Rails Tutorial
 * [zh_cn](http://railstutorial-china.org/)
