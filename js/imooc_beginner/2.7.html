@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> new document </title>  
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <script type="text/javascript">
+      function openWindow() {
+        var y_confirm=confirm("你准备打开新窗口吗?")
+        if(y_confirm==true)
+        {
+          var y_website=prompt("你准备打开的网站是:",'http://www.imooc.com/')
+          if(y_website!=null)
+          {
+            window.open(y_website,'_blank','width=400,height=500,menubar=no,status=no')
+          }
+        }
+      }
+      </script> 
+    </head> 
+    <body> 
+      <input type="button" value="新窗口打开网站" onclick="openWindow()" /> 
+    </body>
+  </html>
