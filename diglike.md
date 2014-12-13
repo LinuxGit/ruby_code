@@ -23,9 +23,10 @@
 * [Rails Best Practices](http://rails-bestpractices.com/)
 * [Ruby on rails 实战圣经](http://ihower.tw/rails4/)
 
-
 ###Code School
 * [Code School](https://www.codeschool.com/)
+* [Tealeaf Academy](http://www.gotealeaf.com/)
+* [RailsApps](https://tutorials.railsapps.org/plan/hobo?opt_in=false)
 
 ###Rspec
 * [rspec](http://rspec.info/)
