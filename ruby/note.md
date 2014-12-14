@@ -102,8 +102,17 @@ String === "foo"
 
 16.
 ```ruby
-3.between?(1, 5)
-=> true
 3.between?(3, 5)
 => true
+```
+
+17.
+```ruby
+>> p :name             # 等价于 'puts :name.inspect'
+:name
+```
+
+18.符号中不能使用连字符
+```ruby
+'data-turbolinks-track' => true
 ```
