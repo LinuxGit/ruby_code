@@ -1,3 +1,10 @@
+### I18n
+* (Rails I18n API)[http://guides.rubyonrails.org/i18n.html]
+* (I18n example)[https://github.com/svenfuchs/rails-i18n/blob/master/rails/locale/zh-CN.yml]
+
+
+
+
 1. Use `bundle show [gemname]` to see where a bundled gem is installed.
 `bundle show sass`
 
