@@ -1,6 +1,6 @@
 ### I18n
-* (Rails I18n API)[http://guides.rubyonrails.org/i18n.html]
-* (I18n example)[https://github.com/svenfuchs/rails-i18n/blob/master/rails/locale/zh-CN.yml]
+* [Rails I18n API](http://guides.rubyonrails.org/i18n.html)
+* [I18n example](https://github.com/svenfuchs/rails-i18n/blob/master/rails/locale/zh-CN.yml)
 
 
 
