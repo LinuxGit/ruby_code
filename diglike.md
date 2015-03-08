@@ -4,6 +4,7 @@
 ###Cool Websites
 * [Dribble](http://dribbble.com/)
 * [Simplebits](http://simplebits.com/)
+* [Codepen](http://codepen.io/)
 
 
 ###Ruby
@@ -55,6 +56,7 @@
 * [bootstraptaste](http://bootstraptaste.com/)
 
 ####JS
+* [jQuery API](http://api.jquery.com/)
 * [Foundational JavaScript Tools](https://github.com/codefellows/jstools)
 
 ####Coffeescript
