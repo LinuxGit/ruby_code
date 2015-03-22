@@ -118,3 +118,9 @@ String === "foo"
 ```
 
 19.p 返回打印的对象，而 puts 始终返回 nil
+
+20. update rubygems
+```shell
+gem update --system
+```
+
