@@ -14,7 +14,7 @@
 * [rubykoans](http://rubykoans.com/)
 * [codewars](http://www.codewars.com/)
 * [rubular](http://www.rubular.com/)
-
+* [minitest doc](http://docs.seattlerb.org/minitest/index.html)
 
 ###Rails Tutorial
 * [zh_cn](http://railstutorial-china.org/)
