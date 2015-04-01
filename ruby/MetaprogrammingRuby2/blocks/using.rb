@@ -1,7 +1,9 @@
-def using(conn)
-  begin
-    yield(conn) if block_given?
-  ensure
-    conn.close
+module Kernel
+  def using(resource)
+    begin
+      yield
+    ensure
+      resource.dispose
+    end
   end
 end
