@@ -1,2 +1,0 @@
-Add new field to database for 'accepted terms on date',2014-09-27 22:16:23 +0800,2014-09-27 22:22:55 +0800
-Get DBA approval for new field.,2014-09-27 22:22:42 +0800,
