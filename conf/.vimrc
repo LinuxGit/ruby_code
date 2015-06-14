@@ -1,22 +1,22 @@
-set nocompatible               " be iMproved
-filetype off                   " required!
+set nocompatible              " be iMproved, required
+filetype off                  " required
 
-set rtp+=~/.vim/bundle/vundle/
-call vundle#rc()
+" set the runtime path to include Vundle and initialize
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
 
-" let Vundle manage Vundle
-" required!
-Bundle 'gmarik/vundle'
+Plugin 'gmarik/vundle'
+Plugin 'The-NERD-tree'
 
-Bundle 'The-NERD-tree'
-
-filetype plugin indent on     " required!
+call vundle#end()            " required
+filetype plugin indent on    " required
 
 autocmd vimenter * NERDTree
+syntax on
 colorscheme molokai
 let g:molokai_original=1
-set t_Co=256
 set nu
+set t_Co=256
 set guifont=Monaco
 "set nocp
 set mouse=a
@@ -26,11 +26,10 @@ set shiftwidth=4
 set expandtab
 set smarttab
 
-filetype plugin indent on
 set autoindent
 set list listchars=tab:»·,trail:·
-autocmd FileType make     set noexpandtab
-autocmd FileType python   set noexpandtab
+autocmd FileType make set noexpandtab tabstop=4 shiftwidth=4
+autocmd FileType python set tabstop=4 shiftwidth=4
 autocmd FileType eruby  set tabstop=2 shiftwidth=2
 autocmd FileType ruby,rdoc set tabstop=2 shiftwidth=2
 autocmd FileType html set tabstop=2 shiftwidth=2
