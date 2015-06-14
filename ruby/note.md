@@ -124,3 +124,4 @@ String === "foo"
 gem update --system
 ```
 
+```2 <=> 1```
