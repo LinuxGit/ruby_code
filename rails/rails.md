@@ -50,3 +50,12 @@ rake db:migrate:redo
 ```
 rake db:seed
 ```
+
+```
+rake test:models
+rake test:controllers
+```
+
+```
+bundle config 'mirror.https://rubygems.org' 'https://ruby.taobao.org'
+```
