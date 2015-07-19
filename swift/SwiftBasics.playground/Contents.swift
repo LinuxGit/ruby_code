@@ -61,10 +61,3 @@ let implicitString = assumedString
 //Assertions
 let age = 5
 assert(age >= 0, "A person's age cannot be less than zero.")
-
-
-
-
-
-
-
