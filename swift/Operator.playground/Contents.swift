@@ -11,3 +11,11 @@ x
 
 "hello " + "world"
 
+9 % 4
+-9 % 4
+8 % 2.5
+
+var c = 0
+let d = ++c
+let e = c++
+let f = --c
