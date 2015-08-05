@@ -20,9 +20,33 @@ let sparkingHeart = "\u{1F496}"
 var word = "cafe"
 word.characters.count
 
-let greeting = "ruby china"
+var greeting = "ruby china"
 print(greeting.startIndex)
 print(greeting.endIndex)
+greeting[greeting.startIndex.successor()]
+greeting[greeting.endIndex.predecessor()]
+let index = advance(greeting.startIndex, 5)
+greeting[index]
+
+greeting.insert("!", atIndex: greeting.endIndex)
+greeting.removeAtIndex(welcome.endIndex.predecessor())
+print(greeting)
+
+let languages = ["PHP", "Python", "Ruby", "Perl"]
+var pCount = 0
+var yCount = 0
+for language in languages {
+    if language.hasPrefix("P") {
+        ++pCount
+    }
+    if language.hasSuffix("y") {
+        ++yCount
+    }
+}
+
+
+
+
 
 
 
