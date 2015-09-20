@@ -1,17 +1,41 @@
-//: Playground - noun: a place where people can play
+//Constants and Variables
+let maximumNumberOfLoginAttempts = 10
+var currentLoginattempt = 0
+
+var x = 0.0, y = 0.0, z = 0.0
+
+var red, green, blue: Double
 
 var 你好 = "Hello World"
 print(你好)
 
-//Numeric Type
+let 🐶🐮 = "dogcow"
+
+print("Swift", "China", terminator: " ")
+
+//string intepolation
+var name = "Louis";
+print("My Name is \(name).")
+
+//Comments
+/* conments
+multiline comments */
+
+//Integer Bounds
 var minValue = UInt8.min
 var maxValue = UInt8.max
 
+//Type Inference
 let pi = 3 + 0.1415926
+
+//Numeric Literals
+let decimalInger = 17
 let binaryInteger = 0b10001
 let octalInteger = 0o21
 let hexadecimalInteger = 0x11
+
 let decimalDouble = 1.25e2
+let hexadecimalBouble = 0xFp2
 let oneMillion = 1_000_000
 
 //Booleans
