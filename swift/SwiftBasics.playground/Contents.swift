@@ -38,6 +38,10 @@ let decimalDouble = 1.25e2
 let hexadecimalBouble = 0xFp2
 let oneMillion = 1_000_000
 
+//Type Alias
+typealias AudioSample = UInt16
+var maxAmplitudeFound = AudioSample.max
+
 //Booleans
 let i = 1
 if i == 1 {
@@ -58,6 +62,7 @@ print("The status message is \(http200Status.description).")
 let possibleNumber = "123"
 let convertedNumber = Int(possibleNumber)
 
+//Forced Unwrapping
 if convertedNumber != nil {
     print("Number is \(convertedNumber!).")
 }
@@ -75,6 +80,17 @@ if let roomNumber = Int(infoNumber) {
     print("infoNumber could not be converted to a integer.")
 }
 
+let infoNumber2 = "99"
+if var roomNum = Int(infoNumber2) {
+    print("Room Num is \(roomNum).")
+}
+
+//Multiple optional bindings
+if let firstNumber = Int("4"), secondNumber = Int("42")
+    where firstNumber < secondNumber {
+        print("\(firstNumber) < \(secondNumber).")
+}
+
 //Implicitly unwrapped optionals
 let possibleString: String? = "an optional string"
 let forcedString = possibleString!
@@ -82,6 +98,18 @@ let forcedString = possibleString!
 let assumedString: String! = "an implicit unwrapped string"
 let implicitString = assumedString
 
+//Error Handling
+func canThrowAnError() throws {
+    //this function may or may not throw an error.
+}
+
+do {
+    try canThrowAnError()
+    // no error was thrown
+} catch {
+    // an error was thrown
+}
+
 //Assertions
-let age = 5
+let age = 8
 assert(age >= 0, "A person's age cannot be less than zero.")
