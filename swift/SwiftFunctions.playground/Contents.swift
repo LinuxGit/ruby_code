@@ -20,3 +20,9 @@ func sayHello(personName: String, alreadyGreeted: Bool) -> String {
 }
 print(sayHello("Louis", alreadyGreeted: true))
 
+//Functions Without Return Values
+func sayGoodbye(personName: String) {
+    print("Goodbye, \(personName).")
+}
+
+sayGoodbye("Louis")
