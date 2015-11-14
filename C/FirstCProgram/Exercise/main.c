@@ -51,23 +51,45 @@ int test2() {
     return 0;
 }
 
-int main() {
+void test3() {
     int a, b, c, d;
     scanf("%d,%d,%d,%d",&a,&b,&c,&d);
     printf("%d,%d,%d,%d\n",a,b,c,d);
     
-    return 0;
 }
 
+int theNumberOfFish(int n) {
+    int totalFish = 6;
+    
+    for (int i = totalFish; 1; i++) {
+        int leftFish = i;
+        int isFind = 1;
+        
+        for (int j = 0; j < n; j++) {
+            if ((leftFish - 1) % n == 0) {
+                leftFish = ((leftFish - 1) / n) * (n - 1);
+            } else {
+                isFind = 0;
+                break;
+            }
+        }
+        
+        if (isFind) {
+            totalFish = i;
+            printf("%d", i);
+            break;
+         }
+    }
 
+    return totalFish;
+}
 
-
-
-
-
-
-
-
+int main() {
+    
+    int total = theNumberOfFish(2);
+    printf("%d\n", total);
+    return 0;
+}
 
 
 

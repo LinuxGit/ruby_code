@@ -27,12 +27,24 @@ int test2() {
     return 0;
 }
 
-int main(int argc, const char * argv[]) {
+int test3() {
     int a = 99;
     int size = sizeof(a);
     int size2 = sizeof(double);
     
     printf("%d\n", size);
     printf("%d\n", size2);
- 
+    
+    return 0;
+}
+
+int main(int argc, const char * argv[]) {
+    printf("请输入三个整数，以逗号隔开\n");
+    int num1,num2,num3;
+    scanf("%d,%d,%d",&num1,&num2,&num3);
+    int max = num1 > num2 ? num1 : num2;
+    max = max > num3 ? max : num3;
+    printf("max = %d\n", max);
+    
+    return 0;
 }

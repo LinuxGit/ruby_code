@@ -14,15 +14,50 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>Functions.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Include.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 		<key>Operator.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
+		<key>char.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>digit.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>header.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>variable.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>9B371E0A1BF0F125004299B7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9B5BF0031BF38807002E0957</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -33,6 +68,31 @@
 			<true/>
 		</dict>
 		<key>9B6D716C1BEF283000953A8B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9B86E1D51BF77133006C3BB1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9BCA96C71BF78A5D009133B6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9BD8BA5B1BF4CF2A0069A35E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9BD8BA661BF4F37E0069A35E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9BD8BA781BF627670069A35E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
