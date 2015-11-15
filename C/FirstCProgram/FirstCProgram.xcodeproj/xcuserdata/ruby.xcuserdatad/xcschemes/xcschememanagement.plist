@@ -29,6 +29,16 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
+		<key>array.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+		<key>arrayAndFunction.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
 		<key>char.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -78,6 +88,16 @@
 			<true/>
 		</dict>
 		<key>9BCA96C71BF78A5D009133B6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9BD52DBA1BF82EF200F35151</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9BD52DC51BF86CA300F35151</key>
 		<dict>
 			<key>primary</key>
 			<true/>
