@@ -54,6 +54,11 @@
 			<key>orderHint</key>
 			<integer>5</integer>
 		</dict>
+		<key>maze.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
 		<key>variable.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -68,6 +73,11 @@
 			<true/>
 		</dict>
 		<key>9B5BF0031BF38807002E0957</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9B64422E1BF8D53C004DF0AC</key>
 		<dict>
 			<key>primary</key>
 			<true/>

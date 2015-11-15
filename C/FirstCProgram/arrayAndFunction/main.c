@@ -92,17 +92,63 @@ void bubbleSort(int array[], int count) {
     }
 }
 
-
-
-int main(int argc, const char * argv[]) {
-    
+void test4() {
     int nums[5] = {8, 6, 10, 2, 1};
     
     int length = sizeof(nums) / sizeof(int);
     printArray(nums, length);
     bubbleSort(nums, length);
     printArray(nums, length);
+}
 
+void test5() {
+    char scores[3][2];
+    
+    scores[0][0] = 80;
+    scores[0][1] = 90;
+    
+    scores[1][0] = 100;
+    scores[1][1] = 75;
+    
+    for (int i = 0; i < 2; i++) {
+        for (int j = 0; j < 2; j++) {
+            printf("scores[%d][%d] = %d\n", i, j, scores[i][j]);
+        }
+    }
+    
+}
+
+int main(int argc, const char * argv[]) {
+    
+//    int scores[2][2] = {{70, 80}, {100, 75}};
+//    int scores[][2] = {{50, 60}, {70, 80}};
+//    int scores[][2] = {{50}, {60}};
+    int scores[2][2] = {1,2,3,4};
+    
+    for (int i = 0; i < 2; i++) {
+        for (int j = 0; j < 2; j++) {
+            printf("scores[%d][%d] = %d\n", i, j, scores[i][j]);
+        }
+    }
+    
     return 0;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
