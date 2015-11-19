@@ -8,6 +8,9 @@
 
 #include <stdio.h>
 
+
+
+
 int main(int argc, const char * argv[]) {
     
     char map[6][6] = {
@@ -102,3 +105,18 @@ int main(int argc, const char * argv[]) {
     
     return 0;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

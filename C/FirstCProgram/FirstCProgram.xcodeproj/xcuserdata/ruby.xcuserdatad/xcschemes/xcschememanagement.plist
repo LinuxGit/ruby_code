@@ -59,6 +59,21 @@
 			<key>orderHint</key>
 			<integer>11</integer>
 		</dict>
+		<key>string.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
+		<key>stringExercise.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
+		<key>stringFunction.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
 		<key>variable.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -92,7 +107,22 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>9B6F65CE1BFCCD7300571ACD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9B82D1081BFA2E12004087A4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>9B86E1D51BF77133006C3BB1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9BA412931BFE0DA500507C90</key>
 		<dict>
 			<key>primary</key>
 			<true/>
