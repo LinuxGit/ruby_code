@@ -1,7 +1,8 @@
 ###Talk is cheap.Show me the code.
-* ruby
-* rails
+* ruby & rails
 * python
-* swift
-* shell
-* js
+* C
+* OC
+* Swift
+* bash shell
+* html & css & javascript
