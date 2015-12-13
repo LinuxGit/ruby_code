@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>ARC.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>20</integer>
+		</dict>
 		<key>BOOL.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -34,6 +39,11 @@
 			<key>orderHint</key>
 			<integer>12</integer>
 		</dict>
+		<key>MRC.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
 		<key>MultiFile.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -43,6 +53,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>7</integer>
+		</dict>
+		<key>MultiObjectMemManagement.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>15</integer>
 		</dict>
 		<key>NSString.xcscheme</key>
 		<dict>
@@ -64,19 +79,44 @@
 			<key>orderHint</key>
 			<integer>5</integer>
 		</dict>
+		<key>autorelease.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>19</integer>
+		</dict>
+		<key>model.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>18</integer>
+		</dict>
 		<key>property.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>13</integer>
+		</dict>
+		<key>property2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>17</integer>
 		</dict>
 		<key>self.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>11</integer>
 		</dict>
+		<key>setMethodMemManagement.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>16</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>9BA888C31C1BD82300698C4B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>9BB776E11C0B3943001B83C0</key>
 		<dict>
 			<key>primary</key>
@@ -143,6 +183,41 @@
 			<true/>
 		</dict>
 		<key>9BB7779A1C172EF3001B83C0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9BBFDF091C1D056D005D6A0A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9BBFDF1A1C1D60B4005D6A0A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9BBFDF2B1C1D710D005D6A0A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9BBFDF391C1D9038005D6A0A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9BBFDF471C1DC982005D6A0A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9BEC96581C1C1B1500F125EA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9BEC96661C1C7C7A00F125EA</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -17,5 +17,11 @@ int main(int argc, const char * argv[]) {
     
     NSLog(@"%@",p);
     
+    id person = p;
+    [person setAge:20];
+    
+    NSLog(@"%@",person);
+    
+    
     return 0;
 }
