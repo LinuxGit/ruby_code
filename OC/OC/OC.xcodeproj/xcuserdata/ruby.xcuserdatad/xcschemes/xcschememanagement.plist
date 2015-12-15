@@ -84,6 +84,11 @@
 			<key>orderHint</key>
 			<integer>19</integer>
 		</dict>
+		<key>block.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>21</integer>
+		</dict>
 		<key>model.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -98,6 +103,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>17</integer>
+		</dict>
+		<key>protocol.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>22</integer>
 		</dict>
 		<key>self.xcscheme</key>
 		<dict>
@@ -183,6 +193,16 @@
 			<true/>
 		</dict>
 		<key>9BB7779A1C172EF3001B83C0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9BB961F21C1F077F0031368F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9BB961FD1C1F1F1F0031368F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
