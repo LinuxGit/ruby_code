@@ -11,3 +11,16 @@ if x2 in months:
     print('x2: ok')
 else:
     print('x2: error')
+
+>>> s = set([1, 2, 2, 3])
+>>> s
+set([1, 2, 3])
+>>> s.add(4)
+>>> s.remove(1)
+>>> s
+set([2, 3, 4])
+>>> s2 = set([1, 2, 3])
+>>> s & s2
+set([2, 3])
+>>> s | s2
+set([1, 2, 3, 4])

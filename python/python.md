@@ -1,6 +1,10 @@
 `# -*- coding: utf-8 -*-`
 
-Python把0、空字符串''和None看成 False，其他数值和非空字符串都看成 True.
+```python
+if x:
+    print('True')
+```
+只要x是非零数值、非空字符串、非空list等，就判断为True，否则为False。
 
 `int(12.1)`
 
