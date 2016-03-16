@@ -14,3 +14,8 @@ sorted([18, 6, 9, 27], reverse = True)
 #[27, 18, 9, 6]
 ```
 
+```python
+>>> os.environ.get("LANG")
+'zh_CN.UTF-8'
+>>> os.environ.keys()
+```
