@@ -1,6 +1,24 @@
 sentence = "I love ruby"
 sentence.charAt(5)
-  console.log("avg")
+sentence[5]
+
+name = "I love ruby"
+name.toUpperCase().toLowerCase()
+name.indexOf('ruby')
+name.substring(7)
+name.substring(0, 5)
+
+ary.splice(2, 2, 'd')
+ary.concat([2, 3])
+ary.join('-')
+alert('欢迎'+arr.slice(0,-1).join(', ')+'和'+arr.slice(-1)+'童鞋！');
+
+console.log("avg")
+Math.abs(1/3)
+
+alert(`多行
+字符串
+测试`);
 
   for(var num=10;num>0;num--){
     console.log(num);
