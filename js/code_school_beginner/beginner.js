@@ -58,3 +58,8 @@ function numStrings(list) {
   }
   return count;
 }
+
+Date.now()
+var now = new Date();
+now.getFullYear();
+now.getTime();

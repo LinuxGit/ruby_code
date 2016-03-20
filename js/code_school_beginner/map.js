@@ -23,3 +23,13 @@ var buildProcessor = function(func) {
 
 var process_add_2 = buildProcessor(add_2);
 process_add_2([1, 2, 3])
+
+
+function pow(x) {
+    return x * x;
+}
+
+arr = [1, 2, 3, 4, 5];
+alert(arr.map(pow));
+alert(arr.map(String));
+
