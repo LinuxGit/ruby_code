@@ -1,0 +1,4 @@
+curl command example:
+curl -I music.baidu.com
+python
+Ruby      , Python
