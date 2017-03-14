@@ -150,5 +150,11 @@ open(file) { |f|
 #=> 35
 ```
 
+```ruby
 (1..10).step(2).to_a
-=> [1, 3, 5, 7, 9]
+#=> [1, 3, 5, 7, 9]
+```
+
+```ruby
+%w[Ruby Python Go PHP Lua].sample(2)
+```
