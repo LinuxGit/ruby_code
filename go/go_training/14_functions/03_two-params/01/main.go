@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	greet("Jane", "Doe")
+	greet("Louis", "Liu")
 }
 
 func greet(fname string, lname string) {
