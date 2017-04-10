@@ -9,7 +9,7 @@ type person struct {
 }
 
 func (p person) fullName() string {
-	return p.first + p.last
+	return p.first + " " + p.last
 }
 
 func main() {

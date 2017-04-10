@@ -24,7 +24,7 @@ func main() {
 	// with a key of string, which will be the word
 	// and a value of int, which will be the number of times the word occurs
 	buckets := make(map[int]map[string]int)
-	// Create slices to hold words words
+	// Create slices to hold words
 	for i := 0; i < 12; i++ {
 		buckets[i] = make(map[string]int)
 	}
