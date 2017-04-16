@@ -7,7 +7,7 @@ import (
 func main() {
 	c := make(chan int)
 	c <- 1
-	fmt.Println(<-c)
+	fmt.Println(c)
 }
 
 // This results in a deadlock.
