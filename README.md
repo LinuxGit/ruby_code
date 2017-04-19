@@ -1,4 +1,4 @@
-### Talk is cheap.Show me the code.
+### Talk is cheap. Show me the code.
 
 As Louis said:
 
