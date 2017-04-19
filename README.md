@@ -1,8 +1,5 @@
-###Talk is cheap.Show me the code.
-* ruby & rails
-* python
-* C
-* OC
-* Swift
-* bash shell
-* html & css & javascript
+### Talk is cheap.Show me the code.
+
+As Louis said:
+
+>Focus on go programming in 2017. :shipit:
