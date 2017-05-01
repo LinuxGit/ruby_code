@@ -16,7 +16,7 @@ type semester struct {
 }
 
 type year struct {
-	Fall, Spring, Summer semester
+	Fall, Spring semester
 }
 
 var tpl *template.Template

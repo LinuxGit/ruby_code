@@ -15,6 +15,7 @@ func init() {
 
 func monthDayYear(t time.Time) string {
 	return t.Format("01-02-2006")
+	// return t.Format(time.Kitchen)
 }
 
 var fm = template.FuncMap{
