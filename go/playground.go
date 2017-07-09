@@ -5,6 +5,10 @@ import (
 )
 
 func main() {
-	nums := []int{2, 3, 8, 6}
-	fmt.Println(nums[:4])
+	ch := make(chan struct{}, 10)
+	for i := 0; i < 5; i++ {
+		ch <- struct{}{}
+	}
+
+	fmt.Println(len(ch))
 }
