@@ -2,13 +2,14 @@ package main
 
 import (
 	"fmt"
+	"log"
+	"net/url"
 )
 
 func main() {
-	ch := make(chan struct{}, 10)
-	for i := 0; i < 5; i++ {
-		ch <- struct{}{}
+	u, err := url.Parse("http://s_dev_01:9090/")
+	if err != nil {
+		log.Fatal(err)
 	}
-
-	fmt.Println(len(ch))
+	fmt.Println(u.Host)
 }
