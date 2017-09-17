@@ -1,13 +1,13 @@
-###Framework
+### Framework
 * [Ionic:developing hybrid mobile apps with HTML5](http://ionicframework.com/)
 
-###Cool Websites
+### Cool Websites
 * [Dribble](http://dribbble.com/)
 * [Simplebits](http://simplebits.com/)
 * [Codepen](http://codepen.io/)
 
 
-###Ruby
+### Ruby
 * [Tealeaf Open Book Shelf](http://www.gotealeaf.com/books/)
 * [Ruby glossary](http://www.codecademy.com/zh/glossary/ruby)
 * [Ruby China wiki](https://github.com/ruby-china/wiki/wiki)
@@ -16,32 +16,32 @@
 * [rubular](http://www.rubular.com/)
 * [minitest doc](http://docs.seattlerb.org/minitest/index.html)
 
-###Rails Tutorial
+### Rails Tutorial
 * [zh_cn](http://railstutorial-china.org/)
 * [English](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
 * [github](https://github.com/railstutorial/sample_app)
 
-###Rails Resources
+### Rails Resources
 * [Rails Offical Guide](http://guides.rubyonrails.org/)
 * [railscasts](http://railscasts.com/)
 * [Rails Best Practices](http://rails-bestpractices.com/)
 * [Ruby on rails 实战圣经](http://ihower.tw/rails4/)
 
-###Code School
+### Code School
 * [Code School](https://www.codeschool.com/)
 * [Tealeaf Academy](http://www.gotealeaf.com/)
 * [RailsApps](https://tutorials.railsapps.org/plan/hobo?opt_in=false)
 
-###Rspec
+### Rspec
 * [rspec](http://rspec.info/)
 * [1000 个小时学会 Rails - 003 RSpec 行为驱动测试简介](http://ruby-china.org/topics/2848)
 
-####Frontend Knowledge
+#### Frontend Knowledge
 * [前端技能汇总](https://github.com/JacksonTian/fks)
 * [前端开发面试题](http://segmentfault.com/a/1190000000465431)
 * [程序员应该知道的 13 个设计技巧](http://www.oschina.net/news/53600/design-tips-for-developers)
 
-####CSS
+#### CSS
 * [bootstrap](http://getbootstrap.com/)
 * [bootstrap-sass](https://github.com/twbs/bootstrap-sass)
 * [bootstrap sass sample](https://github.com/twbs/bootstrap-sass/tree/master/vendor/assets/stylesheets/bootstrap)
@@ -55,17 +55,17 @@
 * [bootstrapzero](http://www.bootstrapzero.com/)
 * [bootstraptaste](http://bootstraptaste.com/)
 
-####JS
+#### JS
 * [jQuery API](http://api.jquery.com/)
 * [Foundational JavaScript Tools](https://github.com/codefellows/jstools)
 
-####Coffeescript
+#### Coffeescript
 * [CoffeeScript Cookbook EN](http://coffeescriptcookbook.com/)
 * [CoffeeScript Cookbook CN](http://island205.github.io/coffeescript-cookbook.github.com/)
 
-###Cheat Sheet
+### Cheat Sheet
 * [Cheat Sheet Summary](http://blog.jobbole.com/64515/)
 * [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-###Books
+### Books
 * [pragprog](http://pragprog.com/)
