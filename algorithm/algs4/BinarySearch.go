@@ -1,5 +1,16 @@
+// $ java-algs4 edu.princeton.cs.algs4.BinarySearch tinyW.txt < tinyT.txt
+// 50
+// 99
+// 13
+// $ java-algs4 edu.princeton.cs.algs4.BinarySearch largeW.txt < largeT.txt | wc -l
+//   367966
+//
 // $ go run BinarySearch.go tinyW.txt < tinyT.txt
+// 50
+// 99
+// 13
 // $ go run BinarySearch.go largeW.txt < largeT.txt | wc -l
+//   367966
 
 package main
 

@@ -1,5 +1,15 @@
-# $ ruby BinarySearch.rb tinyW.txt tinyT.txt
-# $ ruby BinarySearch.rb largeW.txt largeT.txt | wc -l
+# $ java-algs4 edu.princeton.cs.algs4.BinarySearch tinyW.txt < tinyT.txt
+# 50
+# 99
+# 13
+# $ java-algs4 edu.princeton.cs.algs4.BinarySearch largeW.txt < largeT.txt | wc -l
+#   367966
+# $ ruby BinarySearch.rb tinyW.txt < tinyT.txt
+# 50
+# 99
+# 13
+# $ ruby BinarySearch.rb largeW.txt < largeT.txt | wc -l
+#   367966
 
 class BinarySearch
   def self.index_of(ary, key)
@@ -30,7 +40,8 @@ end
 
 whitelist.sort!
 
-File.foreach(ARGV[1]).each do |line|
+ARGV.shift
+ARGF.each_line do |line|
   key = line.to_i
   puts key if BinarySearch.index_of(whitelist, key) == -1
 end
