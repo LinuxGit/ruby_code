@@ -11,4 +11,7 @@ func main() {
 	fmt.Println(strings.TrimSpace(" Ruby "))
 
 	fmt.Println(strings.Fields(" ruby china "))
+
+	a := []string{"a", "b", "c"}
+	fmt.Println(strings.Join(a, " "))
 }
