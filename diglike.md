@@ -6,7 +6,6 @@
 * [Simplebits](http://simplebits.com/)
 * [Codepen](http://codepen.io/)
 
-
 ### Ruby
 * [Tealeaf Open Book Shelf](http://www.gotealeaf.com/books/)
 * [Ruby glossary](http://www.codecademy.com/zh/glossary/ruby)
@@ -27,14 +26,19 @@
 * [Rails Best Practices](http://rails-bestpractices.com/)
 * [Ruby on rails 实战圣经](http://ihower.tw/rails4/)
 
+### Rspec
+* [rspec](http://rspec.info/)
+* [1000 个小时学会 Rails - 003 RSpec 行为驱动测试简介](http://ruby-china.org/topics/2848)
+
+### Python
+* [Learn Python 3 Sample Code](https://github.com/michaelliao/learn-python3)
+* [廖雪峰 Python3 教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+
 ### Code School
 * [Code School](https://www.codeschool.com/)
 * [Tealeaf Academy](http://www.gotealeaf.com/)
 * [RailsApps](https://tutorials.railsapps.org/plan/hobo?opt_in=false)
 
-### Rspec
-* [rspec](http://rspec.info/)
-* [1000 个小时学会 Rails - 003 RSpec 行为驱动测试简介](http://ruby-china.org/topics/2848)
 
 #### Frontend Knowledge
 * [前端技能汇总](https://github.com/JacksonTian/fks)
@@ -69,3 +73,4 @@
 
 ### Books
 * [pragprog](http://pragprog.com/)
+

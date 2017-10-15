@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 s = input('请输入您的出生年份: ')
 birth = int(s)
