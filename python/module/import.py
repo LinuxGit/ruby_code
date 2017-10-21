@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 import os
 
 print(os.path.isdir('/etc'))
@@ -8,4 +11,4 @@ try:
 except ImportError:
     import simplejson as json
 
-print(json.dumps({'python':3.4}))
+print(json.dumps({'python':3.6}))

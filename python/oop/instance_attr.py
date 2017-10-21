@@ -5,4 +5,4 @@ class Person(object):
 
 p = Person('Bob', 59)
 print(p.name)
-print(p.__score)
+# print(p.__score) will fail
