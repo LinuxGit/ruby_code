@@ -1,4 +1,5 @@
-// $ echo "( 2 + ( ( 3 + 4 ) * ( 5 * 6 ) ) )" | go run playground.go
+// $ go run InfixToPostfix.go
+// ( 2 + ( ( 3 + 4 ) * ( 5 * 6 ) ) )
 // 2 3 4 + 5 6 * * +
 // https://algs4.cs.princeton.edu/13stacks/InfixToPostfix.java.html
 
