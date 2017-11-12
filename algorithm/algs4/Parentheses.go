@@ -68,7 +68,6 @@ func IsBalanced(s string) bool {
 		}
 	}
 	return stack.IsEmpty()
-
 }
 
 func main() {
