@@ -2,4 +2,4 @@
 
 As Louis said:
 
->Focus on go programming in 2017. :shipit:
+> Focus on go programming in 2018. :shipit:
