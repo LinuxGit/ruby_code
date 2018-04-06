@@ -25,4 +25,10 @@ func main() {
 		}
 	}
 	fmt.Println(twoD)
+
+	array := [...]int{10, 20, 30, 40, 50}
+	fmt.Println(array[1])
+
+	array2 := [5]int{1: 20, 2: 30}
+	fmt.Println(array2[2])
 }
